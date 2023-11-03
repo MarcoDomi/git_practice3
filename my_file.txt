@@ -3,3 +3,4 @@ I am doing splendid!
 
 ISSUE #53
 **did some work
+**finished implementing add_num()

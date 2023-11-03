@@ -5,3 +5,4 @@ def add_num(a, b):
 
 
 print(add_num(5,5))
+print(add_num(4,8))
