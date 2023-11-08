@@ -1,2 +1,10 @@
-how are you? 
-ADDED A CHANGE
+how are you?
+I am doing splendid!
+
+added a hotfix
+
+ISSUE #53
+**did some work
+**finished implementing add_num()
+
+
